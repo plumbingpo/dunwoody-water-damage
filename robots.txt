@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationdunwoody.com/sitemap.xml
